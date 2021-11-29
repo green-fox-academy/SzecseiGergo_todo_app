@@ -1,5 +1,5 @@
 [
-  { "todo": "Kutyát sétáltatni", "completed": false },
-  { "todo": "Tejet venni", "completed": false },
-  { "todo": "Megcsinálni a leckét", "completed": false }
+  { "task": "Kutyát sétáltatni", "completed": false },
+  { "task": "Tejet venni", "completed": false },
+  { "task": "Megcsinálni a leckét", "completed": false }
 ]
